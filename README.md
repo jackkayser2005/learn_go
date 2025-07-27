@@ -90,9 +90,7 @@
 * Dockerfile + CI pipeline
 * Tiny HTML front end
 
-## License
 
-MIT. See `LICENSE`.
 
 
 
