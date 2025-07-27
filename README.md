@@ -1,4 +1,4 @@
-* Go URL Shortener
+### Go URL Shortener
 
   Tiny URL shortener I built while learning Go. It creates short codes for long URLs and redirects users to the original link.
 
